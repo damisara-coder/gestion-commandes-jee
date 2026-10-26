@@ -100,8 +100,7 @@ Le script complet est dans [`sql/schema.sql`](sql/schema.sql).
 gestion-commandes/
 ├── pom.xml                          Dépendances Maven (packaging war)
 ├── README.md
-├── sql/
-│   └── schema.sql                   Script de création de la base
+├── schema.sql                   Script de création de la base
 └── src/main/
     ├── java/ma/fstt/
     │   ├── TestConnexion.java       Test de la connexion JDBC
